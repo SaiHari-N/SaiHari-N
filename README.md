@@ -28,6 +28,7 @@
 
 </p>
 
+### About
 Co-working of 25+ projects from international arena, dreams higher to achieve goal and want to have a major role in society improvement and shows enthusiasm by being a State Admin In-charge of ThinkLogics' Digital Buddy Program for Tamil Nadu and District President of Government registered NGO "National Youth Council Of India" - Karur, Tamil Nadu.
 
 A young bibliophile, wanderlust, social activist, vigilant, minimalist, technical enthusiast, perfectionist, over achiever, multitasker and a change agent. Aims to heal people through highness of words in research articles and projects. Co-Author of the first book from Ethical Life Series named as "Lifologics" and "Era of Liv-On" to encourage the society to achieve their goals along with morals. Author of a technical books named as “BLAC – Beginner Level Arduino Codings” , "Basics of Java" and "Basic Electronics Tutorial - Series" for academic Scholars and Candidates.
