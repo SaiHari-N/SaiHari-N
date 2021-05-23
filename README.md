@@ -41,6 +41,16 @@ Organised about five virtual based events namely, "Art Fest", "Word War", "Snaps
 
 Claimed several credentials from most reputed organizations like IBM, Google, Cisco, TCS, etc., C2 Proficient in EF SET. Holding 350+ certifications which has been awarded during the academic year of 2020 to 2021 along with more than 100 Digitally Verifiable Badges. Successfully completed 65+ Professional Development Hours conducted by IEEE Continuing Education. Holding highly valuable credentials like ISO/IEC 27001 Information Security Associate from Skillfront, Network Security Associate level 2 from Fortinet's National Security Expert, Certified Calico Operator: Level 1 from Tigers, Cybersecurity Associate from Certiprof, etc., And also holding Six Sigma Yellow Belt from SMStudy organization.
 
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaiHari-N&show_icons=true&theme=gotham" alt="Sai Hari | Stats" />
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{SaiHari-N}/count.svg)
+
 [twitter]: https://twitter.com/SaiHari_N
 
 [Hashnode]: https://sites.google.com/view/sai-hari
