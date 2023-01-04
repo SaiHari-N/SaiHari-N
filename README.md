@@ -48,7 +48,6 @@ Claimed several credentials from most reputed organizations like IBM, Google, Ci
 
 </details>
 
-
  ![Visitor Count](https://profile-counter.glitch.me/{SaiHari-N}/count.svg)
 
 [twitter]: https://twitter.com/SaiHari_N
